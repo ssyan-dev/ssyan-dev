@@ -15,7 +15,7 @@ My name is Stanislav, I am a student and a developer.
 - 🌍 Website: [ssyan.ru](https://ssyan.ru)
 - ✉️ Contact: [me@ssyan.ru](mailto:me@ssyan.ru)
 - 🧠 Like clean architecture and automation
-- 🚀 Current Project: **Minuta Tools**
+- 🚀 Current Project: **---**
 - 🤝 Looking to collaborate
 - 🎈 Fun fact: I started programming when I was 11
 
